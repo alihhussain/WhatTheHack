@@ -1,6 +1,6 @@
-# What the Hack: DevOps 
+# What the Hack: OSS DevOps 
 
-## Challenge 1 - OSS DevOps: Introduction
+## Challenge 1 - Introduction
 [Back](challenge00.md) - [Home](../../readme.md) - [Next](challenge02.md)
 
 ### Introduction
