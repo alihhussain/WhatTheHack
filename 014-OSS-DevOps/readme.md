@@ -8,9 +8,9 @@ DevOps is a journey not a destination. Our goal when writing this challenged bas
  
  *(this list is a work in progress, links to be included upon completion of each challenge)*
 
- - Setup
- - OSS DevOps: Introduction
- - GitHub Project Boards: Agile Project Management
+ - [Challenge 0](./Student/Guides/challenge00.md) - Setup
+ - [Challenge 1](./Student/Guides/challenge01.md) - OSS DevOps: Introduction
+ - [Challenge 2](./Student/Guides/challenge02.md) - GitHub Project Boards: Agile Project Management
  - ...
  - ...
  - ...
