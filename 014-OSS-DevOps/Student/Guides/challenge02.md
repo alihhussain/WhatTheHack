@@ -12,27 +12,28 @@ In the last challenge we learned that Agile project management is a key componen
 3. [What is Kanban](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-kanban)
 4. [What is Agile Development?](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-agile-development)
 
-To help you with Agile project management, GitHub includes Project Boards. Project boards help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs. Please review the following introduction to Project Boards:
-
-1. [About project boards](https://help.github.com/en/articles/about-project-boards)
+To help you with Agile project management, GitHub includes Project Boards. Project boards help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs. Please review this [introduction to Project Boards](https://help.github.com/en/articles/about-project-boards) before proceeding with the challenge.
 
 ### Challenge
 
 1. Create a basic kanban project board for the repository you created in the [previous challenge](challenge01.md).
-2. Create an issue for this and each of the remaining challenges.
-3. Assign the `challenge 2` issue to another member of your team, have them assign their `challenge 2` issue to you.
-4. **todo**
 
+2. Delete the default notes added to the **To do** column.
 
-_to be deleted_
+3. Configure automation for the columns of the board as follows:
+   - **To do** - move newly added issues to this column.
+   - **In progress** - move reopened issues and newly added/reopened pull requests to this column.
+   - **Done** - move closed issues and merged pull requests/closed pull request with no commits to this column.
 
-~~1. Create a work item for this and each of the remaining challenges.~~
+4. Create an issue for this and each of the remaining challenges, and verify that the new issues appear in the **To do** column of the project board.
 
-~~2. Assign the `challenge 2` work item to another member of your team, have them assign their `challenge 2` work item to you.~~
+6. Assign the `challenge 2` issue to another member of your team, and have them assign their `challenge 2` issue to you.
 
-~~3. Using the kanban board, move their `challenge 2` work item to the done state.~~
+7. Close the `challenge 2` issue assigned to you, and verify that the closed issue appears in the **Done** column of the project board.
 
-_to be deleted_
+9. Reopen the `challenge 2` issue, and verify that the reopened issue appears in the **In Progress** column of the project board.
+
+11. Close the `challenge 2` issue.
 
 ### Success Criteria
 
