@@ -1,7 +1,7 @@
 # What the Hack: OSS DevOps 
 
 ## Challenge 0 - Setup
-[Home](../../readme.md) - [Next](challenge01.md)
+[Home](../../readme.md) // [Next](challenge01.md)
 
 ### Introduction
 
@@ -22,4 +22,4 @@ In this challenge we will setup the core components needed to complete this What
 
 1. You should be able to log into GitHub and the Azure Portal.
    
-[Home](../../readme.md) - [Next](challenge01.md)
+[Home](../../readme.md) // [Next](challenge01.md)
