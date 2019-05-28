@@ -27,13 +27,13 @@ To help you with Agile project management, GitHub includes Project Boards. Proje
 
 4. Create an issue for this and each of the remaining challenges, and verify that the new issues appear in the **To do** column of the project board.
 
-6. Assign the `challenge 2` issue to another member of your team, and have them assign their `challenge 2` issue to you.
+5. Assign the `challenge 2` issue to another member of your team, and have them assign their `challenge 2` issue to you.
 
-7. Close the `challenge 2` issue assigned to you, and verify that the closed issue appears in the **Done** column of the project board.
+6. Close the `challenge 2` issue assigned to you, and verify that the closed issue appears in the **Done** column of the project board.
 
-9. Reopen the `challenge 2` issue, and verify that the reopened issue appears in the **In Progress** column of the project board.
+7. Reopen the `challenge 2` issue, and verify that the reopened issue appears in the **In Progress** column of the project board.
 
-11. Close the `challenge 2` issue.
+8. Close the `challenge 2` issue.
 
 ### Success Criteria
 
