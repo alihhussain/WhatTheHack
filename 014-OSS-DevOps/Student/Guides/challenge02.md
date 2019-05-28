@@ -37,6 +37,6 @@ To help you with Agile project management, GitHub includes Project Boards. Proje
 
 ### Success Criteria
 
-1. You should have experienced using GitHub Project Boards for Agile project management.
+You should have experienced using GitHub Project Boards for Agile project management.
 
 [Back](challenge01.md) // [Home](../../readme.md) // [Next](challenge03.md)

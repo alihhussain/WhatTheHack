@@ -20,6 +20,6 @@ In this challenge we will setup the core components needed to complete this What
 
 ### Success Criteria
 
-1. You should be able to log into GitHub and the Azure Portal.
+You should be able to log into GitHub and the Azure Portal.
    
 [Home](../../readme.md) // [Next](challenge01.md)
