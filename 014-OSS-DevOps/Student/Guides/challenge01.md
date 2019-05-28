@@ -27,6 +27,6 @@ We can only assume that you are doing this What the Hack because you understand 
 
 1. You should understand why DevOps is important and the basic components.
 2. You should understand the basic principles and practices of DevOps.
-4. You should be able to see GitHub repositories created by the other members of your hack team.
+3. You should be able to see GitHub repositories created by the other members of your hack team.
 
 [Back](challenge00.md) // [Home](../../readme.md) // [Next](challenge02.md)
