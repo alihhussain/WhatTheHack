@@ -15,7 +15,7 @@ In this challenge we will setup the core components needed to complete this What
 2. Create an [Azure](https://azure.microsoft.com/) Subscription that you can use for this hack. If you already have a subscription you can use it or you can get a free trial [here](https://azure.microsoft.com/free/).
 3. Log into the [Azure Portal](https://portal.azure.com) and confirm that you have an active subscription that you can deploy cloud services to.
 4. Download and install [Git SCM](https://git-scm.com/download) if you don't have it or a similar Git client installed.
-5. Download and install [Visual Studio Code](https://code.visualstudio.com) if you don't have it.
+5. Download and install [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com) or your favorite IDE if you don't already have one installed.
    
 
 ### Success Criteria
