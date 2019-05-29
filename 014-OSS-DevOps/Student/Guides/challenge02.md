@@ -16,16 +16,16 @@ To help you with Agile project management, GitHub includes Project Boards. Proje
 
 ### Challenge
 
-1. Create a basic kanban project board for the repository you created in the [previous challenge](challenge01.md).
+1. Create a basic kanban project board for the repository you created in the [previous challenge](challenge01.md) ([hint](https://help.github.com/en/articles/creating-a-project-board)).
 
 2. Delete the default notes added to the **To do** column.
 
-3. Configure automation for the columns of the board as follows:
+3. Configure automation for the columns of the board as follows ([hint](https://help.github.com/en/articles/configuring-automation-for-project-boards)):
    - **To do** - move newly added issues to this column.
    - **In progress** - move reopened issues and newly added/reopened pull requests to this column.
    - **Done** - move closed issues and merged pull requests/closed pull request with no commits to this column.
 
-4. Create an issue for this and each of the remaining challenges, and verify that the new issues appear in the **To do** column of the project board.
+4. Create an issue for this and each of the remaining challenges, and verify that the new issues appear in the **To do** column of the project board ([hint](https://help.github.com/en/articles/creating-an-issue)).
 
 5. Assign the `challenge 2` issue to another member of your team, and have them assign their `challenge 2` issue to you.
 
