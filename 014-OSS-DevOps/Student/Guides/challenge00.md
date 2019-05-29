@@ -22,6 +22,6 @@ In this challenge we will setup the core components needed to complete this What
 
 You should be able to do the following:
 1. Log into GitHub
-2. Log into the Azure Portal.
+2. Log into the Azure Portal
    
 [Home](../../readme.md) // [Next](challenge01.md)
