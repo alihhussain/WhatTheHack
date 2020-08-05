@@ -1,6 +1,6 @@
-# What the Hack: Azure Arc for Servers 
+# What the Hack: Azure Arc enabled Servers 
 
-## Challenge 4 – Arc Value Add: Integrate Sentinel
+## Challenge 4 – Arc Value Add: Integrate Sentinel (60 minutes)
 [Back](challenge03.md) - [Home](../readme.md) - [Next](challenge05.md)
 
 ### Introduction

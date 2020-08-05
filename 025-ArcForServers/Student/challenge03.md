@@ -1,6 +1,6 @@
-# What the Hack: Azure Arc for Servers 
+# What the Hack: Azure Arc enabled Servers 
 
-## Challenge 3 - Arc Value Add: Integrate Security Center
+## Challenge 3 - Arc Value Add: Integrate Security Center (60 minutes)
 [Back](challenge02.md) - [Home](../readme.md) - [Next](challenge04.md)
 
 ### Introduction
